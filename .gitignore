@@ -1,2 +1,3 @@
 # Project exclude paths
 /target/
+/external-task-client-starter-example.iml
